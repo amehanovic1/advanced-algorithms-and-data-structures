@@ -1,4 +1,4 @@
-# Advanced Algorithms and Data Structures – Academic Year 2023/24
+# Advanced Algorithms and Data Structures
 
 This repository contains four practical assignments from the course **Advanced Algorithms and Data Structures**, completed during the 2023/24 academic year.  
 The assignments focus on the implementation and testing of advanced data structures: **Red-Black Tree** and **Fibonacci Heap**, based on pseudocode from the textbook **Introduction to Algorithms (CLRS, MIT Press, 2009)**.
